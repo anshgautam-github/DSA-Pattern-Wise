@@ -32,3 +32,9 @@ Examples to FIND this pattern in the questions :
                                             🚨 Signal 1: “Check if array is sorted” (but no direction specified)
                                             🚨 Signal 2: “Return true if condition A OR B”
                                             🚨 Signal 3:  “Could belong to multiple types”
+
+
+
+
+
+Give tricky interview problems where this pattern is hidden 😈 Or combine this with two pointers / sliding window patterns (very powerful combo)
